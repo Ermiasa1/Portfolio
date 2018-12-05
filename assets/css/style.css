@@ -1,0 +1,105 @@
+body {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 18px;
+    line-height: 34px;
+    color: #777;
+    background: url("../images/concrete_seamless.png");
+  }
+#navheight{
+    height: 90px;
+}
+#logo{
+    margin-left: 45px;
+    height: 90px;
+    width: 350px;      
+    background:rgba(7, 95, 153, 0.952);
+    
+}
+#logolink{
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #fff;
+    text-align: center;
+    margin-left: 30px;
+    text-decoration: none;
+
+}
+#unList{
+    margin-top: 25px;
+    width: 400px;
+    padding-left: 15px;
+    margin-left: 15px;
+    line-height: 18px;
+    color: #999;
+    font-size: 20Px;
+    text-decoration: none;
+    
+}
+li{
+    border-left: 1px solid #efefef;
+}
+.nav li a:first-child {
+    border-left: 0 none;
+}
+
+h2{
+    margin-left: 40px;
+    width: 900px;
+    color: rgba(7, 95, 153, 0.952);
+}
+#headerBox, #contactBox{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#main-container{  margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: #fff;
+    width: 1100px;
+
+}
+.row{
+    margin-right: 80px;
+    margin-left: 80px;
+}
+#main-container{
+    margin-bottom: 80px;
+    padding-bottom: 20px;
+}
+#form_id{
+    width: 943px;
+}
+.page-header{
+    width: 943px;
+    border-bottom: solid 2px rgba(7, 95, 153, 0.952);
+}
+#rowBorder {
+    border:   #fff solid ;
+    border-width: 4px;
+}
+#colBorder{
+    border: #fff solid;
+    border-width: 8px;
+}
+h4{
+    position: absolute;
+    bottom: 20px;
+    width: 247px;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background:rgba(7, 95, 153, 0.952);
+    border-bottom: 0;
+    margin-right: 10px;
+}
+p{
+    text-align: justify;
+    margin-left: 10px;
+    margin-right:10px;
+}
